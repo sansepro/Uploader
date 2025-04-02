@@ -1,5 +1,13 @@
 # Документация к классу Uploader
 
+[![Source Code](https://img.shields.io/badge/source-sansepro/Uploader-blue.svg?style=flat-square)](https://github.com/sansepro/Uploader)
+[![Latest Version](https://img.shields.io/packagist/v/sansepro/Uploader.svg?style=flat-square)](https://github.com/sansepro/Uploader/releases)
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://github.com/sansepro/Uploader/blob/master/LICENSE)
+[![Build Status](https://github.com/sansepro/Uploader/actions/workflows/ci.yml/badge.svg)](https://github.com/sansepro/Uploader/actions/workflows/ci.yml)
+[![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/sansepro/Uploader.svg?style=flat-square)](https://scrutinizer-ci.com/g/sansepro/Uploader/code-structure)
+[![Quality Score](https://img.shields.io/scrutinizer/g/sansepro/Uploader.svg?style=flat-square)](https://scrutinizer-ci.com/g/sansepro/Uploader)
+[![Total Downloads](https://img.shields.io/packagist/dt/sansepro/Uploader.svg?style=flat-square)](https://packagist.org/packages/sansepro/Uploader)
+
 ## Содержание
 1. [Введение](#введение)
 2. [Установка и инициализация](#установка-и-инициализация)
